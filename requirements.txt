@@ -1,0 +1,15 @@
+pandas
+numpy
+seaborn
+matplotlib
+ta
+scipy
+statsmodels
+scikit-learn
+xgboost
+kneed
+hdbscan
+optuna
+ace-tools
+scikit-learn
+
